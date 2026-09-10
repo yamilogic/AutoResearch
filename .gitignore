@@ -116,7 +116,6 @@
 # Local editor and OS files
 **/.DS_Store
 **/.idea/
-**/.vscode/
 **/*.swp
 **/*.suo
 
@@ -131,3 +130,7 @@
 # Optional GPT Researcher output must be reviewed before entering knowledge_base/.
 /workspaces/knowledge-drafts/
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
